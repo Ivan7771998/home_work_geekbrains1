@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
 
-
+<!--new branch for pull request-->
 
     <TextView
         android:id="@+id/textView"
